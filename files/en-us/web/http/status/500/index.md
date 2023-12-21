@@ -16,7 +16,6 @@ This error response is a generic "catch-all" response. Usually, this indicates t
 ```http
 500 Internal Server Error
 ```
-
 ## Specifications
 
 {{Specifications}}
